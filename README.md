@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MFarzonaEraj
-- 👀 I’m interested in AI/ML/BL/RL
+- 👀 I’m interested in AI
 - 🌱 I’m currently learning generative AI
 - 📫 I'm working in zypl.ai[ML Engineer].
 
